@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - Product Manager for Fintech
 - Currently based in Singapore 
 - Learning Web Development at LeWagon Singapore
