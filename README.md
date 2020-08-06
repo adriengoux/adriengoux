@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Product Manager for Fintech
+- Currently based in Singapore 
+- Learning Web Development at LeWagon Singapore
+
 <!--
 **adriengoux/adriengoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
