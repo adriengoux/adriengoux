@@ -2,6 +2,8 @@
 - Currently based in Singapore 
 - Learning Web Development at LeWagon Singapore
 
+My LinkedIn: https://www.linkedin.com/in/adriengoux/ 
+
 <!--
 **adriengoux/adriengoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
